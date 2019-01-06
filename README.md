@@ -7,17 +7,16 @@
 ### Dynamic Programming
 
 <ul>
-    <li> 646. Maximum Length of Pair Chain.py
-    <li> 714. Best Time to Buy and Sell Stock with Transaction Fee
+    <li> <a href="./646. Maximum Length of Pair Chain.py">646. Maximum Length of Pair Chain</a></li>
+    <li><a href="./714. Best Time to Buy and Sell Stock with Transaction Fee.py"> 714. Best Time to Buy and Sell Stock with Transaction Fee </a></li>
 </ul>
 
-<br>
 <br>
 
 ### Tree
 
 <ul>
-    <li> 965. Univalued Binary Tree
+    <li><a href="965. Univalued Binary Tree.py"> 965. Univalued Binary Tree </a></li>
 </ul>
 
 
