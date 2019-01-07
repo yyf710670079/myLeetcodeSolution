@@ -16,6 +16,7 @@
 ### Tree
 
 <ul>
+    <li><a href="code/701. Insert into a Binary Search Tree.py">701. Insert into a Binary Search Tree</a></li>
     <li><a href="code/965. Univalued Binary Tree.py"> 965. Univalued Binary Tree </a></li>
 </ul>
 
