@@ -18,6 +18,7 @@
 <ul>
     <li><a href="code/654. Maximum Binary Tree.py">654. Maximum Binary Tree</a></li>
     <li><a href="code/701. Insert into a Binary Search Tree.py">701. Insert into a Binary Search Tree</a></li>
+    <li><a href="code/814. Binary Tree Pruning.py">814. Binary Tree Pruning</a></li>
     <li><a href="code/965. Univalued Binary Tree.py"> 965. Univalued Binary Tree </a></li>
 </ul>
 
