@@ -22,4 +22,12 @@
     <li><a href="code/965. Univalued Binary Tree.py"> 965. Univalued Binary Tree </a></li>
 </ul>
 
+<br>
+
+### Array
+
+<ul>
+    <li><a href="code/950. Reveal Cards In Increasing Order.py">950. Reveal Cards In Increasing Order</a></li>
+</ul>
+
 
