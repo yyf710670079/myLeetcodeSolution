@@ -94,6 +94,19 @@ class BinaryTree(object):
             else:
                 print("None", end=" ")
 
+    @classmethod
+    def is_full_binary_tree(cls, root):
+        # No tree
+        if not root:
+            return True
+
+        if root.left and root.right:
+            return cls.is_full_binary_tree(root.left) and cls.is_full_binary_tree(root.right)
+        elif (root.left and (not root.right)) or ((not root.left) and root.right):
+            return False
+        else:
+            return True
+
 
 
 
