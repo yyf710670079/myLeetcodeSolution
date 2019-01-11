@@ -1,6 +1,7 @@
 # coding = utf-8
 __author__ = "Yufeng Yang"
 from my_class.binary_tree import TreeNode, BinaryTree
+import time
 
 """
 A full binary tree is a binary tree where each node has exactly 0 or 2 children.
@@ -21,6 +22,7 @@ Input: 7
 Output: [[0,0,0,null,null,0,0,null,null,0,0],[0,0,0,null,null,0,0,0,0],[0,0,0,0,0,0,0],
         [0,0,0,0,0,null,null,null,null,0,0],[0,0,0,0,0,null,null,0,0]]
 """
+
 
 # Time: O(2^n)
 def allPossibleFBT(N):
@@ -81,9 +83,18 @@ class Solution(object):
 
 if __name__ == "__main__":
     t1 = Solution()
-    t1_ans = t1.allPossibleFBT2(7)
+    tick = time.time()
+    t1_ans = t1.allPossibleFBT2(19)
+    tock = time.time()
+    print("\ncache solution time: %.3f ms" % ((tock-tick)*1000))
 
-    assert(len(t1_ans) == 5)
+    tick2 = time.time()
+    t2_ans = allPossibleFBT(19)
+    tock2 = time.time()
+    print("\nrecursive solution time: %.3f ms" % ((tock2 - tick2) * 1000))
+
+
+    # assert(len(t1_ans) == )
     for root in t1_ans:
         assert(BinaryTree.is_full_binary_tree(root))
 
