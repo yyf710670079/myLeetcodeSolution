@@ -1,6 +1,6 @@
 ## Leetcode Solution by Yufeng Yang
 
-**I decide to upload and record my leetcode solution and split them in to corresponding topic**
+**Hello! I decide to upload and record my leetcode solution and split them in to corresponding topic**
 
 <br>
 
