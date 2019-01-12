@@ -32,4 +32,12 @@
     <li><a href="code/950. Reveal Cards In Increasing Order.py">950. Reveal Cards In Increasing Order</a></li>
 </ul>
 
+<br>
+
+### Math
+
+<ul>
+    <li><a href="code/883. Projection Area of 3D Shapes.py">883. Projection Area of 3D Shapes</a></li>
+</ul>
+
 
