@@ -30,6 +30,8 @@
 
 <ul>
     <li><a href="code/950. Reveal Cards In Increasing Order.py">950. Reveal Cards In Increasing Order</a></li>
+    <li><a href="code/969. Pancake Sorting.py">969. Pancake Sorting</a></li>
+
 </ul>
 
 <br>
