@@ -40,6 +40,8 @@
 
 <ul>
     <li><a href="code/883. Projection Area of 3D Shapes.py">883. Projection Area of 3D Shapes</a></li>
+    <li><a href="code/973. K Closest Points to Origin.py">973. K Closest Points to Origin</a></li>
+
 </ul>
 
 
